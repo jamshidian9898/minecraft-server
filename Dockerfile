@@ -1,4 +1,4 @@
-FROM adoptopenjdk:16-jre
+FROM adoptopenjdk:17-jre
 
 ARG RAM_AMOUNT
 
